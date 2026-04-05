@@ -25,7 +25,7 @@ The agent dynamically decides whether external research is required, gathers rel
 </p>
 ## 🎬 Watch Full Demo
 
-👉 [Click here to watch the demo on LinkedIn](https://www.linkedin.com/posts/YOUR-POST-LINK)
+👉 [Click here to watch the demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7446644620601597952/)
 ---
 
 ## 🏗️ System Architecture

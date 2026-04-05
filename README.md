@@ -18,17 +18,14 @@ The agent dynamically decides whether external research is required, gathers rel
 
 ---
 
-## 🎥 Demo
+## 📸 App Preview
 
-📽️ **End-to-End Working Demo**  
-See the agent in action: from initial topic analysis and web research to structured planning and final markdown generation.
+<p align="center">
+  <img src="https://github.com/Manya-singh2001/Blog-Writing-Agent/blob/main/content/agent.png" width="900"/>
+</p>
+## 🎬 Watch Full Demo
 
-<div align="center">
-<video src="https://github.com/Manya-singh2001/Blog-Writing-Agent/raw/main/content/demo.MP4" width="100%" controls>
-Your browser does not support the video tag.
-</video>
-</div>
-
+👉 [Click here to watch the demo on LinkedIn](https://www.linkedin.com/posts/YOUR-POST-LINK)
 ---
 
 ## 🏗️ System Architecture
